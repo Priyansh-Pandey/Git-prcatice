@@ -1,4 +1,4 @@
-.css
-.json
-.java
-.py
+* .css
+*.json
+*.java
+*.py
