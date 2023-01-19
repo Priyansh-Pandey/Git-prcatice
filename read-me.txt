@@ -1,2 +1,8 @@
 well I'm startig my devops program from the starting to end 
 officially this is for the Git
+
+
+
+on the 19/01/23  
+
+i have completed the git {add, commit, push, ignore, log, specific logfile}
