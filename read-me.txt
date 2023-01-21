@@ -10,4 +10,4 @@ i have completed the git {add, commit, push, ignore, log, specific logfile}
 
 on the 20/01/23
 
-i have lerned about the git {branchs, brach-switch,}
+i have lerned about the git {branchs, brach-switch/checkout}
