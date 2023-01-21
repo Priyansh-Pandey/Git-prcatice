@@ -1,4 +1,5 @@
-* .css
+*.css
 *.json
 *.java
 *.py
+*.ssh
