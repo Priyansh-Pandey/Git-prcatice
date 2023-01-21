@@ -10,4 +10,9 @@ i have completed the git {add, commit, push, ignore, log, specific logfile}
 
 on the 20/01/23
 
-i have lerned about the git {branchs, brach-switch/checkout, branch delete (-d ,  -D), git merge, merge-conflict, conflict resolution }
+i have lerned about the git {branchs, brach-switch/checkout, branch delete (-d ,  -D), git merge, merge-conflict, conflict resolution, git stash, stash conflict/resolution, stash-clear }
+
+
+on the  21/01/23
+
+continue to the last lecture, here i have learned about git reset and there different modes
