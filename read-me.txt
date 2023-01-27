@@ -16,3 +16,10 @@ i have lerned about the git {branchs, brach-switch/checkout, branch delete (-d ,
 on the  21/01/23
 
 continue to the last lecture, here i have learned about git reset and there different modes
+
+
+on the 27/01/23
+
+as of today i was try to revise the leture but, i,'ve forgetten that i have reconfigured the vm so all the data was
+lost and i havent add the git init command and it started to show the error but even after that i haven't clone the repo
+from the git hub so what happend the git hasen't has the permission to add something in the mater repo so, but after git clone ommand everything was fine git user this command and enter the  cloned folder and then try to push it
