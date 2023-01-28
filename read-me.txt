@@ -15,7 +15,7 @@ i have lerned about the git {branchs, brach-switch/checkout, branch delete (-d ,
 
 on the  21/01/23
 
-continue to the last lecture, here i have learned about git reset and there different modes
+continue to the last lecture, here i have learned about git reset and there different modes, {soft, medium, hard }
 
 
 on the 27/01/23
