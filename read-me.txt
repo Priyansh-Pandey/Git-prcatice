@@ -34,5 +34,5 @@ and how to give tags to your commits, how to remove tags from the commit, how to
 and what is git pull, git clone and git add
 
 
-i do need to learn the bascic of linux very carefully, as i am forgetting the things which are comman and important
+i do need to learn the bascic of linux very carefully, as i am forgitting the things which are comman and important
 
