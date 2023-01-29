@@ -22,4 +22,17 @@ on the 27/01/23
 
 as of today i was try to revise the leture but, i,'ve forgetten that i have reconfigured the vm so all the data was
 lost and i havent add the git init command and it started to show the error but even after that i haven't clone the repo
-from the git hub so what happend the git hasen't has the permission to add something in the mater repo so, but after git clone ommand everything was fine git user this command and enter the  cloned folder and then try to push it
+from the git hub so what happend the git hasen't has the permission to add something in the mater repo so, but after git clone command everything was fine git user this command and enter the  cloned folder and then try to push it.
+
+
+on 29/01/23
+
+today I've learned the difference between [git revert & git reset],
+
+and how to give tags to your commits, how to remove tags from the commit, how to find a particular commit with the help to tags,
+
+and what is git pull, git clone and git add
+
+
+i do need to learn the bascic of linux very carefully, as i am forgitting the things which are comman and important
+
